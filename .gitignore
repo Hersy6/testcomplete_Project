@@ -1,5 +1,21 @@
-# Object file
-*.o
+# Use glob syntax
+syntax: glob
 
-# Ada Library Information
-*.ali
+# Ignore logs
+Log/
+Visualizer/
+# Log files
+*.tcLogs
+
+# Ignore local settings files
+*.tcLS
+
+#File holding tester-specific settings for the project suite.
+*.tcCfgExtender
+
+
+# Ignore backup files
+*.bak
+# Ignore Keyword testing project files
+*KTD.tcKDT
+*.NMimg
