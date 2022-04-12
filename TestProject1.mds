@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="15.0">
 	<children>
-		<child name="NameMapping" key="{FDB13F79-5015-4498-8E7F-CD2BCF3ECFA2}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="..\..\..\Documents\TestComplete 15 Projects\TestProject1\TestProject1\NameMapping\NameMapping.tcNM" />
-		<child name="Script" key="{E94B310C-34F7-4A9C-ACA0-A6A2BA2B363A}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="..\..\..\Documents\TestComplete 15 Projects\TestProject1\TestProject1\Script\Script.tcScript" />
-		<child name="KeywordTests" key="{9A209F6B-E0F9-4BDF-BD73-2F47D65A56C8}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="..\..\..\Documents\TestComplete 15 Projects\TestProject1\TestProject1\KeywordTests\KeywordTests.tcKDT" />
-		<child name="Stores" key="{0DAE05FB-D7BB-4B36-AA5B-4EDC233E0215}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores" path="..\..\..\Documents\TestComplete 15 Projects\TestProject1\TestProject1\Stores\Stores.tcStores" />
+		<child name="NameMapping" key="{FDB13F79-5015-4498-8E7F-CD2BCF3ECFA2}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
+		<child name="Script" key="{E94B310C-34F7-4A9C-ACA0-A6A2BA2B363A}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
+		<child name="KeywordTests" key="{9A209F6B-E0F9-4BDF-BD73-2F47D65A56C8}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
+		<child name="Stores" key="{0DAE05FB-D7BB-4B36-AA5B-4EDC233E0215}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores" path="Stores\Stores.tcStores" />
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{D72C8910-ABE5-4E50-A43A-735F96874A28}" version="14">
