@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{C8DA2805-415B-4B1E-9909-D3FE82488CA3}">
+	<children>
+		<child name="DDT" key="{3646580B-BD35-4136-8BF6-ADDE09E57BB2}" path="DDT.mds" />
+	</children>
+	<testItems key="{BBA8EF15-BA9B-4220-9809-08555B9179FC}">
+		<children>
+			<testItem key="{3646580B-BD35-4136-8BF6-ADDE09E57BB2}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{65B5F6A8-6518-4306-AA33-248615420BF7}" />
+	<analysis key="{0F85E869-78B6-4133-80E7-A65E1932C802}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
