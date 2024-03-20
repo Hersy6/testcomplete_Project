@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="OrdersUsingExcel" key="{E6173F08-1DE7-483F-B8AD-574167338BFA}" path="OrdersUsingExcel.js" />
+		<child name="SQLSetup" key="{F7B1AD3F-1D49-49B4-A409-9A1F87EE6A26}" path="SQLSetup.js" />
+		<child name="OrdersUsingSQL" key="{49082AC0-B310-4A84-A6F4-C15DA6AE6DA6}" path="OrdersUsingSQL.js" />
+	</children>
+</Root>
